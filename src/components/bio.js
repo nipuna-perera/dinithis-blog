@@ -28,7 +28,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> a cool ass cook who lives in Irving, Texas{' '}
+              Written by a cool ass cook who lives in Irving, Texas{' '}
               <a href={`https://twitter.com/${social.twitter}`}>
                 You should follow her on Twitter
               </a>
