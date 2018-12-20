@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "https://randomblog.life/*"
+  to = "https://www.randomblog.life/:splat"
+  force = true
