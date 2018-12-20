@@ -5,6 +5,8 @@ date: "2018-12-19T22:40:32.169Z"
 
 I always opt for tasty, yet easy things to make. Call it a lazy wife’s guide to cooking if you will. And this is one of the first meals I made and I scored big. Best of all, this only takes one pot, so less dishes to clean!
 
+![Creamy Shrimp Spinach Pasta](./IMG-20181219-WA0010.jpg)
+
 ## Ingredients
 
 #### for 4 servings
