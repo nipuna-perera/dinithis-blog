@@ -28,7 +28,7 @@ I always opt for tasty, yet easy things to make. Call it a lazy wife’s guide t
 
 *Tip: Once you rinse the shrimp, make sure to pat them dry. Else it’ll be too watery and wouldn’t sauté properly due to the excess liquid in the pan.*
 
-*You may also substitute 2 cups of almond instead of using milk and heavy cream.*
+*You may also substitute 2 cups of almond milk instead of using milk and heavy cream.*
 
 ## Preparation
 
