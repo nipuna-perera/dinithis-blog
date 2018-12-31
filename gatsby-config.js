@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Redacted Random Blog',
+    title: "Dinithi's Random Blog",
     author: 'Dinithi Kumarasiri',
-    description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
+    description: 'A blog by Dinithi Kumarasiri',
+    siteUrl: 'https://randomblog.life/',
     social: {
       twitter: 'dinithikumarasiri',
       facebook: 'https://www.facebook.com/dinithi.kumarasiri'
