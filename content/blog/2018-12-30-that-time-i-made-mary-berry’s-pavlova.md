@@ -21,7 +21,9 @@ This recipe is from their Christmas special edition and this is one of the best 
 * 350g/12oz castor sugar
 * 1 tsp white wine vinegar 
 * 1 tsp cornflour
-* For the filling
+
+####For the filling
+
 * 600ml/20fl oz double cream
 * 1 tsp vanilla bean paste
 * 50g/1¾oz icing sugar, sifted
