@@ -9,6 +9,10 @@ My husband and I are huge fans of the Great British Baking Show. It’s very cal
 
 This recipe is from their Christmas special edition and this is one of the best desserts I’ve ever made. Here’s the recipe I noted down from BBC with a few additions of my own. 
 
+![](/img/MaryBerryPavlova.jpeg)
+
+
+
 ## Ingredients
 
 #### For the pavlova
