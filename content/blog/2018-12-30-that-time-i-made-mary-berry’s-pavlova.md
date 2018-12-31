@@ -11,7 +11,7 @@ This recipe is from their Christmas special edition and this is one of the best 
 
 ## Ingredients
 
-### For the pavlova
+#### For the pavlova
 
 * 6 large egg whites
 * 350g/12oz castor sugar
@@ -30,13 +30,13 @@ This recipe is from their Christmas special edition and this is one of the best 
 * A few mint leaves, to decorate 
 * Icing sugar for dusting
 
-### Method
+## Method
 
 1. Preheat the oven to 160C/140C Fan/Gas 3. Line a large baking tray with baking parchment and draw a 30cm/12in circle in the middle of the paper. Draw a 15cm/6in circle in the centre of the larger circle to make a ring. 
 
 _\*Gas mark 3 is 325 F_
 
-_\*you can also make one single circle if you don’t have a big enough pan. Thats what I did and I used a pizza tray_ ¯\\_(ツ)\_/¯ 
+_\*You can also make one single circle if you don’t have a big enough pan. Thats what I did and I used a pizza tray_ ¯\\_(ツ)\_/¯ 
 
 2. Put the egg whites in a clean mixing bowl and whisk with an electric whisk until soft peaks form when the whisk is removed. Gradually add the sugar a little at a time, whisking on maximum speed until they are stiff and glossy. Mix the vinegar and cornflour in a cup until smooth, then stir into the egg whites.
 
@@ -48,7 +48,7 @@ _\*The mixing bowl has to be squeaky clean. Any trace of grease is a big no no f
 
 3. Spoon the meringue onto the ring drawn on the baking parchment. Using a large spoon make a shallow trench in the meringue for the cream and fruit to sit in.
 
-_\*if you’re just going to make a circle like I did, make a shallow well in the middle for all the fruit to sit in. No need to make it neat ;)_
+_\*If you’re just going to make a circle like I did, make a shallow well in the middle for all the fruit to sit in. No need to make it neat ;)_
 
 4. Transfer to the oven and immediately reduce the temperature to 140C/120C Fan/Gas 1. Bake for 1 hour–1 hour 15 minutes, until the outside is hard but still white. Turn the oven off and leave the pavlova inside for an hour or overnight to cool and dry.
 
